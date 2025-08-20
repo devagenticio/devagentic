@@ -7,8 +7,6 @@ DevAgentic is a production-grade web application for designing, deploying, and m
 ## 📋 Company Information
 
 - **Company**: DevAgentic LLC
-- **Founded**: December 26, 2024
-- **Address**: Lytchett House, 13 Freeland Park, Wareham Road, Poole, Dorset, BH16 6FA, United Kingdom
 - **Domain**: [devagentic.io](https://devagentic.io)
 - **Dashboard**: [dashboard.devagentic.io](https://dashboard.devagentic.io)
 - **Contact**: support@devagentic.io
@@ -207,4 +205,6 @@ This project is proprietary software owned by DevAgentic LLC. Unauthorized copyi
 
 ---
 
-Built with ❤️ by the DevAgentic team in the United Kingdom.
+Built with ❤️ by the DevAgentic team
+- **Founded**: December 26, 2024
+- **Address**: Lytchett House, 13 Freeland Park, Wareham Road, Poole, Dorset, BH16 6FA, United Kingdom
